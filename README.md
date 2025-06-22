@@ -80,12 +80,12 @@ stress --cpu 1 --timeout 900
 📸 Screenshots
 
     Step	                      File Name
-EC2 Instance Running	    ec2-instance.png
-Apache Webpage	            apache-default-page.png
-CloudWatch Dashboard	    cloudwatch-dashboard.png
-Alarm Configuration	        alarm-config.png
-Alarm Triggered (RED)	    alarm-triggered.png
-Email Alert Received	    email-alert.png
+    EC2 Instance Running	    ec2-instance.png
+    Apache Webpage	            apache-default-page.png
+    CloudWatch Dashboard	    cloudwatch-dashboard.png
+    Alarm Configuration	        alarm-config.png
+    Alarm Triggered (RED)	    alarm-triggered.png
+    Email Alert Received	    email-alert.png
 
 ✅ Final Outcome
 Successfully implemented cloud monitoring and alert system using AWS CloudWatch for an EC2 instance. This setup is useful for real-time performance tracking and proactive incident notification.
